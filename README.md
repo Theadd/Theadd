@@ -1,4 +1,4 @@
-![Theadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theadd&count_private=true&show_icons=true&include_all_commits=true)
+![Theadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theadd&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theadd&layout=compact&exclude_repo=electron-edge,server,bootstrap,Genbeta-Dev-Engine,WickedExile,MultipurposeButton,juced,Designi,distributions)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
