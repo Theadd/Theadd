@@ -1,5 +1,9 @@
-![Theadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theadd&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theadd&layout=compact&exclude_repo=electron-edge,server,bootstrap,Genbeta-Dev-Engine,WickedExile,MultipurposeButton,juced,Designi,distributions)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Theadd/">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Theadd&theme=transparent&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" alt="R. Beltran's GitHub Stats" />
+</a>
+<a href="https://github.com/Theadd/">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theadd&layout=compact&theme=transparent&hide_border=true&exclude_repo=electron-edge,server,bootstrap,Genbeta-Dev-Engine,WickedExile,MultipurposeButton,juced,Designi,distributions" alt="R. Beltran GitHub Top Languages" />
+</a>
 
 <!--
 **Theadd/Theadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
